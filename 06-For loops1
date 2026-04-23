@@ -1,0 +1,96 @@
+Q1  
+
+What will the code below output? 
+ 
+for i in range(1, 6): 
+    print(i) 
+1
+2
+3
+4
+5
+
+Q2  
+
+Explain what range(2, 7) does in a for loop. Then write a loop that prints all numbers from 2 to 6. 
+
+for i in range(2,5) 
+print(i)
+ 
+
+Q3  
+
+In this question, the code has been mixed up. Put the lines into the correct order. 
+ 
+
+The program below should ask for a number and then print "Go!" that many times. 
+ 
+Mixed lines of code: 
+print("Go!") 
+for i in range(number): 
+number = int(input("Enter a number: ")) 
+
+ 
+
+ 
+
+Q4  
+
+Look at this code: 
+ 
+for i in range(1, 11): 
+    if i % 3 == 0: 
+        print(i) 
+ 
+What numbers will be printed, and why? 
+3, 6, 9
+
+ 
+
+ 
+Q5a  
+
+Write a program that uses a for loop to iterate through numbers 1 to 10. 
+For each number: 
+- print "Even" if it is even 
+for i in range(1,10)
+if i % 2 ==0:
+print(i)
+
+ 
+ 
+
+ 
+
+Q5b  
+
+Now update your answer from 5a to also: 
+
+- print "Odd" if the number is odd 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
