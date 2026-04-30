@@ -1,0 +1,10 @@
+loopCount = 1
+while loopCount < 11:
+
+    loopCount = loopCount + 1
+   
+
+    print("Loop", loopCount)
+
+
+print("End")
